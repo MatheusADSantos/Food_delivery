@@ -1,0 +1,17 @@
+{
+    "name": "macbook-estagio/codeigniter4",
+    "autoload": {
+        "psr-4": {
+            "MacbookEstagio\\Codeigniter4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MatheusADSantos",
+            "email": "matheusdevmobile2020@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
